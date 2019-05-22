@@ -11,9 +11,5 @@ Creating a new branch is quick & simple.
 balabalahhh,free to modify
 
 123
-456
-789
-
-hello,this is the first test commit.
-ok, I'm in trouble now.
-1
+<<<<<<< HEAD
+haishi
