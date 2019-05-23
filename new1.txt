@@ -22,4 +22,10 @@ This is the last try, modify by zwpNo.2
 
 read 3 modified by zwpNo3, this is the final, I swear..
 
+<<<<<<< HEAD
 github.
+=======
+github2.
+>>>>>>> c240a310ea7c0a7e47869e20ee25d3c0cbada7e5
+
+this is the final.
