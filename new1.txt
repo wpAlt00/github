@@ -29,3 +29,11 @@ github2.
 >>>>>>> c240a310ea7c0a7e47869e20ee25d3c0cbada7e5
 
 this is the final.
+
+<<<<<<< HEAD
+try to node 2 point. this is from g:github2.
+=======
+try to node 2 point. this is from g:github.
+>>>>>>> bc174a020cd958b435295bbe8d20ea7f02e06977
+
+THIS IS THE TRUELLY FINAL.
